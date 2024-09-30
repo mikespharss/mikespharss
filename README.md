@@ -1,2 +1,2 @@
 - 👋 Hi, I’m Michael Sphar, @mikespharss
-- 👀 I'm a Staff SRE for Visibility at Sprout Social
+- 👀 I'm a Staff SRE at Sprout Social
